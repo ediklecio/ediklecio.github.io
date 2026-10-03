@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou Ediklecio 👋</h1>
-<h3 align="center">Desenvolvedor / Analista de Sistemas — Java & Spring Boot</h3>
+<h3 align="center">Desenvolvedor Full Stack | Analista de Sistemas — Java & Spring Boot</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Backend+Java+%7C+Spring+Boot+%7C+APIs+REST;16%2B+anos+construindo+solu%C3%A7%C3%B5es+web;De+Angular%2FReact+ao+back-end+escal%C3%A1vel;Automatizando+com+IA%3A+Copilot%2C+Claude+%26+Codex" alt="Typing SVG" />
@@ -8,6 +8,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ediklecio" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ediklecio" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:ediklecio.developer@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -22,6 +25,8 @@ Desenvolvedor com **mais de 16 anos de experiência** em soluções web completa
 
 - 📍 João Pessoa, Paraíba, Brasil
 - 🏢 Última atuação na **Hitss/Claro**, desenvolvendo APIs REST e microsserviços para automação de integração de clientes PME
+- 🟢 Aberto a novas oportunidades como Desenvolvedor Full Stack (Java/Spring Boot)
+- 🧱 Novos serviços com **Arquitetura Hexagonal e SOLID**, APIs REST documentadas e integração com serviços de terceiros
 - 🎯 Foco em código limpo, performance, segurança e entregas de alto impacto em times ágeis
 - 🏗️ Passagens por projetos de grande porte: Claro, Vivo, AES Espanha, 3Corações, Ypê (via Global Hitss e Indra)
 - 🤖 Uso ferramentas de IA (GitHub Copilot, Claude, Codex) no dia a dia para refatoração, padronização de código e automações
@@ -40,12 +45,14 @@ Desenvolvedor com **mais de 16 anos de experiência** em soluções web completa
 **Front-end**
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **Dados & Infra**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192??style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
@@ -54,6 +61,28 @@ Desenvolvedor com **mais de 16 anos de experiência** em soluções web completa
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Scrum](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+
+---
+
+### 🚀 Portfólio
+
+Resumo dos meus projetos públicos. Veja todos em **[github.com/ediklecio](https://github.com/ediklecio)**.
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [Sistema de Votação Cooperativista](https://github.com/ediklecio/DESAFIO-DB-votacao-fullstack) | API REST + SPA para pautas e sessões de votação em assembleias, com voto único por associado, apuração parcial/final, Swagger e Docker Compose | Java 25 · Spring Boot · PostgreSQL · Flyway · React · Tailwind |
+
+👉 [Ver todos os repositórios no GitHub](https://github.com/ediklecio?tab=repositories)
+
+---
+
+### 💼 Experiência recente
+
+- **Hitss / Claro** (08/2025 – 08/2026) — Desenvolvedor Especialista: APIs REST e microsserviços Java/Spring Boot, PostgreSQL/MariaDB, Docker, Angular
+- **Tely** (03/2024 – 06/2025) — Dev/Analista: APIs REST, Java/Spring Boot, Angular, React, definição de escopo e arquitetura
+- **Indra** (03/2021 – 07/2023) — Dev/Analista: Angular, React, TypeScript, Node.js, AWS (Lambda, DynamoDB, S3), Azure Pipelines, Scrum
+
+Histórico completo no [LinkedIn](https://www.linkedin.com/in/ediklecio).
 
 ---
 <!-- 
@@ -83,5 +112,5 @@ Português (nativo) · Inglês (intermediário) · Espanhol (básico)
 <br />  
 
 <p align="center">
-  <em>Interessado em discursões sobre back-end Java, NodeJS, arquitetura de APIs e automação com IA.</em>
+  <em>Interessado em discussões sobre back-end Java, NodeJS, arquitetura de APIs e automação com IA.</em>
 </p>
