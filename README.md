@@ -1,3 +1,9 @@
+---
+title: Ediklecio Santos — Desenvolvedor Full Stack Java/Spring Boot
+description: Desenvolvedor Full Stack com 16+ anos em desenvolvimento web e foco em back-end Java/Spring Boot. APIs REST, microsserviços, integrações, Angular e React. João Pessoa, PB.
+lang: pt-BR
+---
+
 <h1 align="center">Ediklecio Santos</h1>
 <h3 align="center">Desenvolvedor Full Stack | Java, Spring Boot, Angular & React</h3>
 
