@@ -30,7 +30,7 @@ permalink: /
 
 Sou desenvolvedor full stack com **mais de 16 anos de experiência em desenvolvimento web** (desde 2009) e foco atual em **back-end Java/Spring Boot**. Desenvolvo APIs REST e microsserviços com autenticação, testes automatizados e integração com sistemas de terceiros, e entrego o front-end em Angular ou React quando o projeto pede.
 
-Atuei em projetos para **Claro, Vivo ADS, AES Espanha, Ypê e 3Corações**, via Hitss e Indra.
+Atuei em projetos para **Claro, Tely, Vivo ADS, AES Espanha, Ypê e 3Corações**.
 
 - 📍 João Pessoa, Paraíba, Brasil
 - 🟢 Disponível para vagas Full Stack / Back-end Java e para projetos sob demanda
